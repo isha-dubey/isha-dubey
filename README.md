@@ -21,7 +21,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishadubey30&label=Profile%20views&color=0e75b6&style=flat" alt="ishadubey30" /> </p>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 
-- 🌱 I’m currently learning **Solidity , next.js and MERN-stack development**
+- 🌱 I’m currently learning **Svelte , next.js and back-end development**
 
 - 💬 Ask me about: **javascript , Tailwind CSS**
 
