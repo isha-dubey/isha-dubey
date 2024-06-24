@@ -1,9 +1,11 @@
 ## Hi, I am Isha, I Like creating websites!
 
-<br clear="both">
-<div align="center">
-<img height="300" width="600" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" />
+ <div>
+  <a href="https://github.com/isha-dubey">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isha-dubey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+ 
 
 ##
 <div align="center">
