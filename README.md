@@ -49,15 +49,11 @@
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo" />
 <img width="12" />
@@ -116,17 +112,9 @@
 
 <br clear="both">
 
-<h3 align="left">🔥 My Stats :</h3>
-
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishadubey30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2" height="108" alt="languages graph" />
-<img src="https://github-readme-stats.vercel.app/api?username=ishadubey30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
-<img src="https://streak-stats.demolab.com?user=ishadubey30&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=1&order=3" height="195" alt="streak graph" />
+  ![Snake animation](https://github.com/isha-dubey/isha-dubey/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-
-  ![Snake animation](https://github.com/isha-dubey/isha-dubey/blob/output/github-contribution-grid-snake.svg)
-
-###
