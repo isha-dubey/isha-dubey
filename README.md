@@ -24,7 +24,7 @@
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishadubey30&label=Profile%20views&color=0e75b6&style=flat" alt="ishadubey30" /> </p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c3/df/eb/c3dfeb977477e5db6442f102d7b3cba6.gif">
 
 - 🌱 I’m currently learning **Svelte , next.js and back-end development**
 
