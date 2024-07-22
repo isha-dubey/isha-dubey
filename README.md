@@ -9,6 +9,7 @@ fn main() {
     let location = 'Indore , India.';
 }
 ```
+<br>
  <div>
   <a href="https://github.com/isha-dubey">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha-dubey&layout=compact&langs_count=16&theme=dracula"/>
