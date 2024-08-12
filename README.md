@@ -1,8 +1,6 @@
 ## Hi, I Like creating websites. Nice to meet you!!!!
 
 
-
-
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
