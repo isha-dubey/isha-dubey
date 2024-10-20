@@ -39,11 +39,9 @@ fn main() {
  -->
 - 🌱 I’m currently learning **Svelte , next.js and back-end development**
 
-- 💬 Ask me about: **javascript , Tailwind CSS**
+- 💬 Ask me about: **javascript , Typescript**
 
 - 📫 Reach me at **ishadubey36@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/cIKP7](https://shorturl.at/cIKP7)
 
 - ⚡ Fun fact About me- **I think I am the lamest in group of Five.**
 
