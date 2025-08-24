@@ -41,8 +41,6 @@ fn main() {
 
 - 💬 Ask me about: **javascript , Typescript**
 
-- 📫 Reach me at **ishadubey36@gmail.com**
-
 - ⚡ Fun fact About me- **I think I am the lamest in group of Five.**
 
 
